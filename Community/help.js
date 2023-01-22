@@ -34,6 +34,8 @@ module.exports = {
         .addFields({ name: "/report", value:"Melde ein Problem an das Serverteam", inline: false})
         .addFields({ name: "/rank", value:"Schaue dein Level an!", inline: false})
         .addFields({ name: "/serverinfo", value:"Bekomme die komplette Serverinfo!", inline: false})
+        .addFields({ name: "/coinflip", value:"Werfe einen Coin!", inline: false})
+        .addFields({ name: "/stats", value:"Schaue dir die Bot stats an!", inline: false})
         .setFooter({ text: "Community Commands"})
         .setTimestamp()
 
