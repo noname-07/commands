@@ -19,7 +19,7 @@ to setup MongoDB follow this Tutorial: https://youtu.be/fZ6J24gjPy0
 
 ====================================================================
 
-Linktree: https://lonktr.ee/toowake_
+Linktree: https://linktr.ee/toowake_
 
 Discord: https://dsc.gg/coding-de
 
