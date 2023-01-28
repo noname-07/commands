@@ -13,6 +13,8 @@ npm i mongodb
 
 npm i canvacord
 
+npm i axios
+
 to setup MongoDB follow this Tutorial: https://youtu.be/fZ6J24gjPy0
 
 ====================================================================
