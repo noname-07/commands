@@ -25,4 +25,4 @@ Discord: https://dsc.gg/coding-de
 
 ====================================================================
 
-Current Version: 28.01.2013
+Current Version: 10.02.2023
