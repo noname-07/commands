@@ -1,1 +1,0 @@
-{ "name": "Discord Bot", "version": "28.01.23", "author": "toowake", "private": false, "dependencies": {"commands": "1.0.0" }, "scripts": { }, "meta": { } }
