@@ -1,4 +1,4 @@
-Created by toowake#0001
+Created by toowake
 
 Thank you for choosing my commands!
 
