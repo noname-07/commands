@@ -15,6 +15,8 @@ npm i canvacord
 
 npm i axios
 
+npm i cpu-stat
+
 to setup MongoDB follow this Tutorial: https://youtu.be/fZ6J24gjPy0
 
 ====================================================================
