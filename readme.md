@@ -21,7 +21,7 @@ to setup MongoDB follow this Tutorial: https://youtu.be/fZ6J24gjPy0
 
 ====================================================================
 
-Linktree: https://linktr.ee/toowake_
+Website: https://toowake.de/aurabot
 
 Discord: https://dsc.gg/coding-de
 
