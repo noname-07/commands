@@ -6,16 +6,34 @@ I hope you have fun!
 
 But please learn Coding!
 
+====================================================================
+
 Please do in Terminal:
-npm i discord.js
+npm i <name>
 
-npm i mongodb
+====================================================================
 
-npm i canvacord
+Required npms:
+@discordjs/builders"
+@discordjs/collection"
+@discordjs/core"
+@discordjs/formatters"
+axios"
+better-sqlite3"
+canvacord"canvas   
+cpu-stat
+dayjs
+discord-gamecord
+discord.js
+dotenv
+mathjs
+mongoose
+open
+promise-mysql
+quick.db
+wikijs
 
-npm i axios
-
-npm i cpu-stat
+====================================================================
 
 to setup MongoDB follow this Tutorial: https://youtu.be/fZ6J24gjPy0
 
@@ -27,4 +45,4 @@ Discord: https://dsc.gg/coding-de
 
 ====================================================================
 
-Current Version: 28.01.2013
+Current Version: 04.04.2023
