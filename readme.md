@@ -47,4 +47,4 @@ Discord: https://dsc.gg/coding-de
 
 ====================================================================
 
-Current Version: 04.04.2023
+Current Version: 07.04.2023
