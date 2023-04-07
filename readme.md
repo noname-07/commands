@@ -9,7 +9,9 @@ But please learn Coding!
 ====================================================================
 
 Please do in Terminal:
-npm i <name>
+npm i "Name of the NPM Package"
+
+Notice: without " "
 
 ====================================================================
 
